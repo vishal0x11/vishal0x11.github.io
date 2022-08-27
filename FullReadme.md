@@ -50,14 +50,14 @@ To view a live example, **[click here](https://vishalmamidi.github.io/)**
 - While installing `nodejs` and `npm`, try to install versions which are equal or greater than the versions mentioned in badges above
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
-    ```bash
-     git clone https://github.com/vishalmamidi/masterPortfolio.git
-    ```
-    This will clone the whole repository in your system.
+  ```bash
+   git clone https://github.com/vishalmamidi/masterPortfolio.git
+  ```
+  This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
-    ```node
-    npm install
-    ```
+  ```node
+  npm install
+  ```
 - Now the project is ready to use
 - You can check it using `npm start`, it will open the website locally on your browser.
 
@@ -257,5 +257,6 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 
 # References 👏🏻
 
+- fork of [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio).
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
 - The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.

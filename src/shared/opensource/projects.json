@@ -81,20 +81,6 @@
           "iconifyClass": "logos-python"
         }
       ]
-    },
-    {
-      "id": "ADBwOdJlaG9maVIvcnkyMDIxNDc4ODA=",
-      "name": "opencv-lane-detection",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/vishalmamidi/opencv-lane-detection",
-      "description": "This Project is to detect lanes on roads for self driving cars",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
     }
   ]
 }

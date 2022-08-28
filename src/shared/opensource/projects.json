@@ -69,16 +69,16 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
-      "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "opencv-lane-detection",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/vishalmamidi/opencv-lane-detection",
+      "description": "This Project is to detect lanes on roads for self driving cars",
       "isFork": false,
       "languages": [
         {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }
